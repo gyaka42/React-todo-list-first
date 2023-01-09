@@ -1,0 +1,9 @@
+Todo app
+
+-> Uygulamanin ozellikleri
+
+    1.Kullanici bir form araciyla todo ekleyebilecek
+    2. ekledigi todo direkt ekranda gorunecek
+    3. her todo icin sil, guncelle ve durumuna gore yapildi/yapilmadi butonlari olacak
+    4. bu butonlar ilgili gorevleri yerine getirecek.
+    5. Eger yapilacaklar listesi bos ise ekranda "Henuz yapilacak is yok" seklinde bir yazi yaz.
